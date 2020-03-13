@@ -1,2 +1,4 @@
 #lets load some libraries
-#teest brenden
+library(stringr)
+#
+library(ggplot2)
